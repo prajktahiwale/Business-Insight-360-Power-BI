@@ -1,1 +1,1 @@
-# Business-Insight-360-Power-BI
+# Sales Insights-Power-BI
